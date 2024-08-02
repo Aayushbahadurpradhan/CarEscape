@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195431312043",
+    "firebase_url": "https://carescape-29c3c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "carescape-29c3c",
+    "storage_bucket": "carescape-29c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195431312043:android:96d20849f5eec8e00065ee",
+        "android_client_info": {
+          "package_name": "com.PradhanGame.CarEscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195431312043-ven2p9mbkfpjgkbm2sip02sdlbgrpcvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.PradhanGame.CarEscape",
+            "certificate_hash": "1b021ba43e5e7bb72af1534ceb7cb8f63b589598"
+          }
+        },
+        {
+          "client_id": "195431312043-ddodhrpggl614revraaghkjbtcqd979m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdxHWEKxi2S2ofj0NFamj4lQ4y4ce-CYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195431312043-ddodhrpggl614revraaghkjbtcqd979m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
